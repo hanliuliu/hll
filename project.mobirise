@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-09_1546",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -182,7 +182,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "关于",
+        "title": "教育经历",
         "order": 4
       },
       "components": [
@@ -367,7 +367,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "特长",
+        "title": "实习经历",
         "order": 3
       },
       "components": [
@@ -518,7 +518,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
-        "title": "教育",
+        "title": "获奖经历",
         "order": 2
       },
       "components": [
